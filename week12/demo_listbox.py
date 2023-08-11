@@ -1,6 +1,7 @@
 from tkinter import *
 from tkinter import messagebox
 
+
 ### EVENT HANDLERS ###
 def lst_colors_selected(event):
     btn_choose_clicked()
